@@ -29,11 +29,11 @@ pinout:
   uo[0]: "o0"
   uo[1]: "o1"
   uo[2]: "o2"
-  uo[3]: "03"
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[3]: "o3"
+  uo[4]: "o4"
+  uo[5]: "o5"
+  uo[6]: "o6"
+  uo[7]: "o7"
 
   # Bidirectional pins
   uio[0]: ""
